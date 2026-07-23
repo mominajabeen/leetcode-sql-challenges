@@ -20,4 +20,5 @@ Welcome to my repository dedicated to tracking my progress and solutions for Lee
 | [0595-big-countries](https://github.com/mominajabeen/leetcode-sql-challenges/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/mominajabeen/leetcode-sql-challenges/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/mominajabeen/leetcode-sql-challenges/tree/master/0607-sales-person) |
+| [0619-biggest-single-number](https://github.com/mominajabeen/leetcode-sql-challenges/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
